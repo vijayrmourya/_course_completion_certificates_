@@ -1,2 +1,2 @@
 # course_completion_certificates
-course completion certificates of all the courses aws builderhub, udemy, udacity etc. that I have completed.
+course completion certificates of MOOCa all the courses aws builderhub, A cloud Guru, udemy, udacity etc. that I have completed.
