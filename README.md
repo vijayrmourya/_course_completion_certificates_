@@ -1,4 +1,7 @@
-# Course Completion Certificates
+# 🎓 Course Completion Certificates
 
-This section showcases my educational journey, highlighting the course completion certificates from various online
-platforms like MOOCs, AWS Builder Hub, A Cloud Guru, Udemy, Udacity, and more, that I have explored studied and completed.
+Welcome to my repository of course completion certificates. This collection represents my commitment to continuous learning and professional development across various domains in technology.
+
+## 📁 Repository Structure
+
+The certificates are organized by the platforms from which the courses were completed:
